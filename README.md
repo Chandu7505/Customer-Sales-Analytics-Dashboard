@@ -47,8 +47,7 @@ Customer-Sales-Analytics-Dashboard/
 ├── Dataset/
 │   ├── Customer_Sales_Data.xlsx
 │
-├── Dashboard/
-│   ├── Customer Sales Analytics Dashboard.pbix
+├──  Customer Sales Analytics Dashboard.pbix
 │
 ├── Images/
 │   ├── Dashboard.png
@@ -92,8 +91,6 @@ The dashboard includes:
 ---
 
 ## 📷 Dashboard Preview
-
-> Add your dashboard screenshot here.
 
 Example:
 
@@ -159,18 +156,6 @@ git clone https://github.com/Chandu7505/Customer-Sales-Analytics-Dashboard.git
 - Inventory Dashboard
 - Real-Time Data Integration
 - Drill-through Reports
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a new feature branch
-3. Commit your changes
-4. Push to your branch
-5. Open a Pull Request
 
 ---
 
